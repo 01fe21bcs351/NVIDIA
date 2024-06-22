@@ -17,7 +17,7 @@ NumPy
 Matplotlib  
 Scikit-learn  
 # Usage
-You can run the notebooks directly in Kaggle or Colab. For local execution:
+You can run the notebooks directly in Kaggle or Colab. For local execution:  
 1.Launch Jupyter Notebook or Jupyter Lab:  
   jupyter notebook  
 2.Open the desired notebook and follow the instructions provided within the notebook.  
