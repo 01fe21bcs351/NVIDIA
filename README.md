@@ -1,5 +1,5 @@
 # NVIDIA
-Image Segmentation in Surround View Images
+Problem Statement : Image Segmentation in Surround View Images
 # Overview
 This repository contains code for performing image segmentation on surround view images using a U-Net model. The project leverages the Cityscapes Image Pairs dataset from Kaggle and includes fine-tuning on a custom dataset with reduced classes, focusing on segmenting cars and the background. The main objective is to accurately segment objects in images captured from multiple surrounding cameras, which is crucial for applications in autonomous driving and surveillance.
 # Project Description
